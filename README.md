@@ -22,7 +22,7 @@ class MyClass {
 
 ##### Proposed Syntax
 
-Instance field declarations may either specify an initializer or not:
+Instance field declarations may either specify an initializer, shown here with an assignment operator, or not:
 
 ```javascript
 class ClassWithoutInits {
